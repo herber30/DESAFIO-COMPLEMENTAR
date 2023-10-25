@@ -1,0 +1,83 @@
+/* Estilo para o corpo (body) */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #baabef;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilo para o cabeçalho (header) */
+  header {
+    background-color: #0b0f47;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header h1 {
+    font-size: 24px;
+  }
+  
+  /* Estilo para a seção (section) */
+  section {
+    background-color: #f6eded;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  section h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  /* Estilo para links (âncoras) */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Estilo para tabelas */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  table, th, td {
+    border: 1px solid #ccc;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  /* Estilo para imagens */
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+  }
+  
+  /* Estilo para listas não ordenadas e ordenadas */
+  ul, ol {
+    margin-left: 20px;
+  }
+  
+  /* Estilo para o rodapé (footer) */
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  /* Estilo para quebras de linha (br) */
+  br {
+    clear: both;
+  }
